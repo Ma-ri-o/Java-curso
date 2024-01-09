@@ -10,3 +10,6 @@ build/
 
 # Ignorar todos los archivos .tmp en el directorio actual y sus subdirectorios
 **/*.tmp
+
+
+.metadata/
