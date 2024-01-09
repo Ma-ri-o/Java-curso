@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+/Users/mac/Documents/Curso-java-2024/.metadata/.plugins/org.eclipse.jdt.core
-1865797976.index
-4225498938.index
-615380650.index
