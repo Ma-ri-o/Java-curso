@@ -9,6 +9,8 @@ public class manipula_cadenas_II {
 		frase.subSequence(29, 57);
 		
 		System.out.println(frase_resumen);
+		
+		
 				
 
 	}
